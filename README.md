@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Batuhan</h1>
+# Hi there, I'm Batuhan Köse👋
 
 ### Senior Computer Science Engineering Student in Turkiye
+
 <h3 align="center">An engineer interested in AI, Software and Finance</h3>
 
 <div align="left">
