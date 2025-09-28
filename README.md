@@ -1,6 +1,6 @@
 # Hi there, I'm Batuhan Köse👋
 
-### Senior Computer Science Engineering Student in Turkiye
+### Fresh Graduate Computer Science Engineer in Turkiye
 
 
 <div align="left">
